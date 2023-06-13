@@ -1,0 +1,19 @@
+{
+  "FilePath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "FreeCourse.Services.Catalog",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
