@@ -11,6 +11,10 @@ using Serilog.Events;
 using Serilog.Sinks.SystemConsole.Themes;
 using System;
 using System.Linq;
+using FreeCourse.IdentityServer.Data;
+using FreeCourse.IdentityServer.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace FreeCourse.IdentityServer
 {
@@ -38,6 +42,20 @@ namespace FreeCourse.IdentityServer
             try
             {
                 var host = CreateHostBuilder(args).Build();
+                using (var scope = host.Services.CreateScope())
+                {
+                    var serviceProvider = scope.ServiceProvider;
+                    var applicationDbContext = serviceProvider.GetRequiredService<ApplicationDbContext>();
+                    applicationDbContext.Database.Migrate();
+
+                    var userManager = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
+
+                    if (!userManager.Users.Any())
+                    {
+                        userManager.CreateAsync(new ApplicationUser { UserName = "mbuyuksoy", Email = "ayisan1096@gmail.com", City = "Ankara"}, "Password12*").Wait();
+                    }
+
+                }
 
                 Log.Information("Starting host...");
                 host.Run();
