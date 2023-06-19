@@ -26,4 +26,8 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Shared\FreeCourse.Shared\FreeCourse.Shared.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="tempkey.jwk" />
+  </ItemGroup>
 </Project>

@@ -32,3 +32,5 @@
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/PhotoStock/FreeCourse.Services.PhotoStock/obj/Debug/net7.0/FreeCourse.Services.PhotoStock.pdb
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/PhotoStock/FreeCourse.Services.PhotoStock/obj/Debug/net7.0/FreeCourse.Services.PhotoStock.genruntimeconfig.cache
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/PhotoStock/FreeCourse.Services.PhotoStock/obj/Debug/net7.0/ref/FreeCourse.Services.PhotoStock.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/PhotoStock/FreeCourse.Services.PhotoStock/bin/Debug/net7.0/FreeCourse.Shared.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/PhotoStock/FreeCourse.Services.PhotoStock/bin/Debug/net7.0/FreeCourse.Shared.pdb
