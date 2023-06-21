@@ -13,8 +13,6 @@ jIdentityServer/FreeCourse.IdentityServer/obj/Debug/netcoreapp3.1/FreeCourse.Ide
 „IdentityServer/FreeCourse.IdentityServer/obj/Debug/netcoreapp3.1/FreeCourse.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig,b/8/b84f94c436ca3001c75a9c76f4425beac497e462
 Ÿ
 oIdentityServer/FreeCourse.IdentityServer/obj/Debug/netcoreapp3.1/FreeCourse.IdentityServer.RazorAssemblyInfo.cs,3/3/3389a198ed017485c5fcb569e79f10fc1846ef0b
-F
-KizzyMicroServices.sln,6/a/6a92dd37f9e2ee21d16da3725a3ddcfcf1f22c88
 y
 IServices/Catalog/FreeCourse.Services.Catalog/appsettings.Development.json,e/c/ecb84312c8d8b5afcc4c45f97e188b48b9156c4e
 {
