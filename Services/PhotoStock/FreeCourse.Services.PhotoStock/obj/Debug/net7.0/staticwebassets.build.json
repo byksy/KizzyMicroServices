@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5DF96k/IS5C7j9PG7pqqnltkJPbyAKgAiid/tZxiDk0=",
+  "Hash": "ybam7isus8nCgHn4HMUMze/OaNn7yUi2aj+3Me3pOOA=",
   "Source": "FreeCourse.Services.PhotoStock",
   "BasePath": "_content/FreeCourse.Services.PhotoStock",
   "Mode": "Default",
@@ -15,5 +15,23 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/PhotoStock/FreeCourse.Services.PhotoStock/wwwroot/photos/mst.jpeg",
+      "SourceId": "FreeCourse.Services.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/PhotoStock/FreeCourse.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/FreeCourse.Services.PhotoStock",
+      "RelativePath": "photos/mst.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/photos/mst.jpeg"
+    }
+  ]
 }
