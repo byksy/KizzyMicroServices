@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5DF96k/IS5C7j9PG7pqqnltkJPbyAKgAiid/tZxiDk0=",
+  "Source": "FreeCourse.Services.PhotoStock",
+  "BasePath": "_content/FreeCourse.Services.PhotoStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FreeCourse.Services.PhotoStock/wwwroot",
+      "Source": "FreeCourse.Services.PhotoStock",
+      "ContentRoot": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/PhotoStock/FreeCourse.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/FreeCourse.Services.PhotoStock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
