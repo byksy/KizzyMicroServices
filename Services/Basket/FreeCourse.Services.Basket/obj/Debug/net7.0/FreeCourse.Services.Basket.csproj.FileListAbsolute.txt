@@ -33,3 +33,12 @@
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/obj/Debug/net7.0/FreeCourse.Services.Basket.pdb
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/obj/Debug/net7.0/FreeCourse.Services.Basket.genruntimeconfig.cache
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/obj/Debug/net7.0/ref/FreeCourse.Services.Basket.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/bin/Debug/net7.0/FreeCourse.Shared.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Basket/FreeCourse.Services.Basket/bin/Debug/net7.0/FreeCourse.Shared.pdb
