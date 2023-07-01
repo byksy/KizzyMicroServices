@@ -1,5 +1,7 @@
 
 using System.IdentityModel.Tokens.Jwt;
+using FreeCourse.Services.Discount.Services;
+using FreeCourse.Shared.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
@@ -22,7 +24,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
     options.Audience = "resource_discount";
     options.RequireHttpsMetadata = false;
 });
-
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<ISharedIdentityService, SharedIdentityService>();
+builder.Services.AddScoped<IDiscountService, DiscountService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

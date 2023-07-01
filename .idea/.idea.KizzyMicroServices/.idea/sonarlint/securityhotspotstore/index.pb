@@ -19,8 +19,6 @@ KServices/Catalog/FreeCourse.Services.Catalog/Properties/launchSettings.json,b/
 kServices/Catalog/FreeCourse.Services.Catalog/obj/Debug/net7.0/FreeCourse.Services.Catalog.GlobalUsings.g.cs,b/3/b3817644ce11766f401b49ef34cc6812d7269e67
 ™
 iServices/Catalog/FreeCourse.Services.Catalog/obj/Debug/net7.0/FreeCourse.Services.Catalog.AssemblyInfo.cs,f/1/f17b6d621da87f6e46292c21d9032aa76e828a5d
-€
-PServices/Catalog/FreeCourse.Services.Catalog/Controllers/CategoriesController.cs,4/5/45238feb90813430b0dbe67e62e349f32ae41915
 e
 5IdentityServer/FreeCourse.IdentityServer/updateUI.ps1,9/c/9c9874872f49d5fe771e0e1de353f48018084cc1
 d
@@ -385,8 +383,6 @@ v
 FServices/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs,d/3/d384a5062ecfd84537e78b595b212a0d6c64eec9
 w
 GServices/Catalog/FreeCourse.Services.Catalog/Services/ICourseService.cs,8/e/8e7ad1221b2da71b0325f088a2f906f4d8a0852b
-}
-MServices/Catalog/FreeCourse.Services.Catalog/Controllers/CoursesController.cs,5/8/5845ebe740798226074ff2860c46a9850537c8dc
 p
 @Shared/FreeCourse.Shared/ControllerBases/CustomBaseController.cs,4/4/44a412517ed86fbe17a99ae681010330d15891bc
 t
