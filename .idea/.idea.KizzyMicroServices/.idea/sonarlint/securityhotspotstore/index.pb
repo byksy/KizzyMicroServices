@@ -19,8 +19,6 @@ KServices/Catalog/FreeCourse.Services.Catalog/Properties/launchSettings.json,b/
 kServices/Catalog/FreeCourse.Services.Catalog/obj/Debug/net7.0/FreeCourse.Services.Catalog.GlobalUsings.g.cs,b/3/b3817644ce11766f401b49ef34cc6812d7269e67
 ™
 iServices/Catalog/FreeCourse.Services.Catalog/obj/Debug/net7.0/FreeCourse.Services.Catalog.AssemblyInfo.cs,f/1/f17b6d621da87f6e46292c21d9032aa76e828a5d
-€
-PServices/Catalog/FreeCourse.Services.Catalog/Controllers/CategoriesController.cs,4/5/45238feb90813430b0dbe67e62e349f32ae41915
 e
 5IdentityServer/FreeCourse.IdentityServer/updateUI.ps1,9/c/9c9874872f49d5fe771e0e1de353f48018084cc1
 d
@@ -385,8 +383,6 @@ v
 FServices/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs,d/3/d384a5062ecfd84537e78b595b212a0d6c64eec9
 w
 GServices/Catalog/FreeCourse.Services.Catalog/Services/ICourseService.cs,8/e/8e7ad1221b2da71b0325f088a2f906f4d8a0852b
-}
-MServices/Catalog/FreeCourse.Services.Catalog/Controllers/CoursesController.cs,5/8/5845ebe740798226074ff2860c46a9850537c8dc
 p
 @Shared/FreeCourse.Shared/ControllerBases/CustomBaseController.cs,4/4/44a412517ed86fbe17a99ae681010330d15891bc
 t
@@ -429,8 +425,6 @@ OServices/PhotoStock/FreeCourse.Services.PhotoStock/appsettings.Development.json
 tServices/PhotoStock/FreeCourse.Services.PhotoStock/obj/Debug/net7.0/FreeCourse.Services.PhotoStock.GlobalUsings.g.cs,f/2/f2e4cab99417c8ca230587bcb5c71c70f3442ffd
 ´
 ƒServices/Catalog/FreeCourse.Services.Catalog/obj/Debug/net7.0/FreeCourse.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig,f/d/fd6d3e9d954477e9a9593e793aaf6fb0960a9fc6
-i
-9IdentityServer/FreeCourse.IdentityServer/appsettings.json,e/b/ebc98c331648e622173a48e224c8925a555ace0e
 c
 3IdentityServer/FreeCourse.IdentityServer/Program.cs,f/2/f215972a508a2df20625a5aa8546ac93831d54e7
 ˜
@@ -455,8 +449,6 @@ t
 DServices/Basket/FreeCourse.Services.Basket/Services/BasketService.cs,c/9/c986be898bc61d8707b41d5e28d3ec4827785e04
 s
 CServices/Basket/FreeCourse.Services.Basket/Services/RedisService.cs,d/6/d6bf38d356d3d4902a3d2a85dbc00c50d9662686
-F
-KizzyMicroServices.sln,6/a/6a92dd37f9e2ee21d16da3725a3ddcfcf1f22c88
 k
 ;Shared/FreeCourse.Shared/Services/ISharedIdentityService.cs,7/1/71ea4525a492b59a7f9aca09b046f3699c7e022d
 j
