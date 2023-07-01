@@ -425,8 +425,6 @@ v
 FIdentityServer/FreeCourse.IdentityServer/Controllers/UserController.cs,a/8/a884e158f40669744fb0e7b92cb524464574d9b7
 ´
 ƒServices/Catalog/FreeCourse.Services.Catalog/obj/Debug/net7.0/FreeCourse.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig,f/d/fd6d3e9d954477e9a9593e793aaf6fb0960a9fc6
-i
-9IdentityServer/FreeCourse.IdentityServer/appsettings.json,e/b/ebc98c331648e622173a48e224c8925a555ace0e
 c
 3IdentityServer/FreeCourse.IdentityServer/Program.cs,f/2/f215972a508a2df20625a5aa8546ac93831d54e7
 ˜

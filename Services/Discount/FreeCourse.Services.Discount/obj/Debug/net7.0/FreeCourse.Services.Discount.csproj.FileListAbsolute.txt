@@ -31,3 +31,15 @@
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/obj/Debug/net7.0/FreeCourse.Services.Discount.pdb
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/obj/Debug/net7.0/FreeCourse.Services.Discount.genruntimeconfig.cache
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/obj/Debug/net7.0/ref/FreeCourse.Services.Discount.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/Dapper.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/Dapper.Contrib.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/Npgsql.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/FreeCourse.Shared.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/bin/Debug/net7.0/FreeCourse.Shared.pdb

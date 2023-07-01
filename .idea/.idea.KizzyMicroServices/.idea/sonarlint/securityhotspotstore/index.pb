@@ -425,8 +425,6 @@ OServices/PhotoStock/FreeCourse.Services.PhotoStock/appsettings.Development.json
 tServices/PhotoStock/FreeCourse.Services.PhotoStock/obj/Debug/net7.0/FreeCourse.Services.PhotoStock.GlobalUsings.g.cs,f/2/f2e4cab99417c8ca230587bcb5c71c70f3442ffd
 ´
 ƒServices/Catalog/FreeCourse.Services.Catalog/obj/Debug/net7.0/FreeCourse.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig,f/d/fd6d3e9d954477e9a9593e793aaf6fb0960a9fc6
-i
-9IdentityServer/FreeCourse.IdentityServer/appsettings.json,e/b/ebc98c331648e622173a48e224c8925a555ace0e
 c
 3IdentityServer/FreeCourse.IdentityServer/Program.cs,f/2/f215972a508a2df20625a5aa8546ac93831d54e7
 ˜
