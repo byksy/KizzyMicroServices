@@ -1,3 +1,4 @@
+using System.IdentityModel.Tokens.Jwt;
 using FreeCourse.Services.Basket.Services;
 using FreeCourse.Services.Basket.Settings;
 using FreeCourse.Shared.Services;
@@ -10,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 var requireAthorizePolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Remove("sub");
 builder.Services.AddControllers(opt =>
 {
     opt.Filters.Add(new AuthorizeFilter(requireAthorizePolicy));

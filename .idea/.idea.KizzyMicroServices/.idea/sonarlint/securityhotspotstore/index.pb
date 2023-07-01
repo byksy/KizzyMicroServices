@@ -13,8 +13,6 @@ jIdentityServer/FreeCourse.IdentityServer/obj/Debug/netcoreapp3.1/FreeCourse.Ide
 „IdentityServer/FreeCourse.IdentityServer/obj/Debug/netcoreapp3.1/FreeCourse.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig,b/8/b84f94c436ca3001c75a9c76f4425beac497e462
 Ÿ
 oIdentityServer/FreeCourse.IdentityServer/obj/Debug/netcoreapp3.1/FreeCourse.IdentityServer.RazorAssemblyInfo.cs,3/3/3389a198ed017485c5fcb569e79f10fc1846ef0b
-y
-IServices/Catalog/FreeCourse.Services.Catalog/appsettings.Development.json,e/c/ecb84312c8d8b5afcc4c45f97e188b48b9156c4e
 {
 KServices/Catalog/FreeCourse.Services.Catalog/Properties/launchSettings.json,b/9/b94ff5a4749568e9f5b0fb747526d0085243b58c
 ›
@@ -433,8 +431,6 @@ tServices/PhotoStock/FreeCourse.Services.PhotoStock/obj/Debug/net7.0/FreeCourse.
 ƒServices/Catalog/FreeCourse.Services.Catalog/obj/Debug/net7.0/FreeCourse.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig,f/d/fd6d3e9d954477e9a9593e793aaf6fb0960a9fc6
 i
 9IdentityServer/FreeCourse.IdentityServer/appsettings.json,e/b/ebc98c331648e622173a48e224c8925a555ace0e
-m
-=Services/Catalog/FreeCourse.Services.Catalog/appsettings.json,2/3/238104dc376884dd67040d71266cd0386e4fe742
 c
 3IdentityServer/FreeCourse.IdentityServer/Program.cs,f/2/f215972a508a2df20625a5aa8546ac93831d54e7
 ˜
@@ -449,8 +445,6 @@ p
 @Services/Basket/FreeCourse.Services.Basket/Dtos/BasketItemDto.cs,6/6/661bb17470445626b853c0e3a8b4aecb8955c91d
 w
 GServices/Basket/FreeCourse.Services.Basket/appsettings.Development.json,4/0/400feeba89ef9cfb513eff7644deac4b04d1f29c
-k
-;Services/Basket/FreeCourse.Services.Basket/appsettings.json,e/9/e9b5cf71664af4f29ca58237ef036d5fea7d03f7
 t
 DServices/Basket/FreeCourse.Services.Basket/Settings/RedisSettings.cs,a/3/a37ffd439281e9cb3d3c6c0d1bf269038e129e94
 u
