@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JqBRbgEywbmrFZoUKltwsNhgmJzsvx+t6zQInCShIWfrCafrtGvKFtinFpydwB9I2BKzXb9SwCe+F4lyCjEL+A==",
+  "dgSpecHash": "pPRwOqKpneJsZHzNOKpfAZEBfowTaZ4FhYuAWVtryL3QVVrsOHoHqum7R55QxqQkScAOqyZxYjLwA+8aTB/+gA==",
   "success": true,
   "projectFilePath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Discount/FreeCourse.Services.Discount/FreeCourse.Services.Discount.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,9 @@
     "/Users/mustafabuyuksoy/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/npgsql/8.0.0-preview.4/npgsql.8.0.0-preview.4.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
