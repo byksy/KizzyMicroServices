@@ -455,8 +455,6 @@ t
 DServices/Basket/FreeCourse.Services.Basket/Services/BasketService.cs,c/9/c986be898bc61d8707b41d5e28d3ec4827785e04
 s
 CServices/Basket/FreeCourse.Services.Basket/Services/RedisService.cs,d/6/d6bf38d356d3d4902a3d2a85dbc00c50d9662686
-F
-KizzyMicroServices.sln,6/a/6a92dd37f9e2ee21d16da3725a3ddcfcf1f22c88
 k
 ;Shared/FreeCourse.Shared/Services/ISharedIdentityService.cs,7/1/71ea4525a492b59a7f9aca09b046f3699c7e022d
 j

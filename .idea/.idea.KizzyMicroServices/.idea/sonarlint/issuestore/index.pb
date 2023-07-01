@@ -451,8 +451,6 @@ t
 DServices/Basket/FreeCourse.Services.Basket/Settings/RedisSettings.cs,a/3/a37ffd439281e9cb3d3c6c0d1bf269038e129e94
 t
 DServices/Basket/FreeCourse.Services.Basket/Services/BasketService.cs,c/9/c986be898bc61d8707b41d5e28d3ec4827785e04
-F
-KizzyMicroServices.sln,6/a/6a92dd37f9e2ee21d16da3725a3ddcfcf1f22c88
 k
 ;Shared/FreeCourse.Shared/Services/ISharedIdentityService.cs,7/1/71ea4525a492b59a7f9aca09b046f3699c7e022d
 j
