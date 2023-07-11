@@ -1,0 +1,17 @@
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/bin/Debug/net7.0/FreeCourse.Services.Order.Application.deps.json
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/bin/Debug/net7.0/FreeCourse.Services.Order.Application.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/bin/Debug/net7.0/FreeCourse.Services.Order.Application.pdb
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.Core.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.pdb
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.Core.pdb
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/FreeCourse.Services.Order.Application.csproj.AssemblyReference.cache
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/FreeCourse.Services.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/FreeCourse.Services.Order.Application.AssemblyInfoInputs.cache
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/FreeCourse.Services.Order.Application.AssemblyInfo.cs
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/FreeCourse.Services.Order.Application.csproj.CoreCompileInputs.cache
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/FreeCourse.Services.Order.Application.csproj.CopyComplete
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/FreeCourse.Services.Order.Application.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/refint/FreeCourse.Services.Order.Application.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/FreeCourse.Services.Order.Application.pdb
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/Debug/net7.0/ref/FreeCourse.Services.Order.Application.dll

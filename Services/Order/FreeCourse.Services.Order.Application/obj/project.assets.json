@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "FreeCourse.Services.Order.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "FreeCourse.Services.Order.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FreeCourse.Services.Order.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FreeCourse.Services.Order.Domain.dll": {}
+        }
+      },
+      "FreeCourse.Services.Order.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FreeCourse.Services.Order.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FreeCourse.Services.Order.Domain.Core.dll": {}
+        }
+      },
+      "FreeCourse.Services.Order.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "FreeCourse.Services.Order.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FreeCourse.Services.Order.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FreeCourse.Services.Order.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreeCourse.Services.Order.Domain/1.0.0": {
+      "type": "project",
+      "path": "../FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj",
+      "msbuildProject": "../FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj"
+    },
+    "FreeCourse.Services.Order.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../FreeCourse.Services.Order.Domain.Core/FreeCourse.Services.Order.Domain.Core.csproj",
+      "msbuildProject": "../FreeCourse.Services.Order.Domain.Core/FreeCourse.Services.Order.Domain.Core.csproj"
+    },
+    "FreeCourse.Services.Order.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj",
+      "msbuildProject": "../FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "FreeCourse.Services.Order.Domain >= 1.0.0",
+      "FreeCourse.Services.Order.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mustafabuyuksoy/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj",
+      "projectName": "FreeCourse.Services.Order.Application",
+      "projectPath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj",
+      "packagesPath": "/Users/mustafabuyuksoy/.nuget/packages/",
+      "outputPath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mustafabuyuksoy/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/Navlungo/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj": {
+              "projectPath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj"
+            },
+            "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj": {
+              "projectPath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.203/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
