@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "B+wOgCSA7LHgqUxHUKVzbzDH2A/KWcHKfOGQme8378PwPF4kJz8STq17Frf/IJA9wwsO/6l4rHOCb+957xhdlw==",
+  "dgSpecHash": "qb+GNwa2WMBNPn3YQEf5plJMcm2pMvQLu//ktxbUR/hNmBBXCxwmEf54yVuTjVE5Y7p526vnR9zZOvxx/vRMqA==",
   "success": true,
   "projectFilePath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.9/microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.9/microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.5/microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.4/npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
