@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qb+GNwa2WMBNPn3YQEf5plJMcm2pMvQLu//ktxbUR/hNmBBXCxwmEf54yVuTjVE5Y7p526vnR9zZOvxx/vRMqA==",
+  "dgSpecHash": "s1MzNnT0lUyGozKY0jmX4ooS9yEZ6OKUjChLIsr02JBCQ8ePIjVERoMq1RnzZIAHb/LrXAb5BvB5D5R5Rf3WYw==",
   "success": true,
   "projectFilePath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj",
   "expectedPackageFiles": [
+    "/Users/mustafabuyuksoy/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.9/microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.9/microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
