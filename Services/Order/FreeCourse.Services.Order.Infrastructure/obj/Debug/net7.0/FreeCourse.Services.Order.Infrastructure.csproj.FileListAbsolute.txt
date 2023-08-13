@@ -15,3 +15,5 @@
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Infrastructure/obj/Debug/net7.0/refint/FreeCourse.Services.Order.Infrastructure.dll
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Infrastructure/obj/Debug/net7.0/FreeCourse.Services.Order.Infrastructure.pdb
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Infrastructure/obj/Debug/net7.0/ref/FreeCourse.Services.Order.Infrastructure.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Infrastructure/bin/Debug/net7.0/FreeCourse.Services.Order.Infrastructure.runtimeconfig.json
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Infrastructure/obj/Debug/net7.0/FreeCourse.Services.Order.Infrastructure.genruntimeconfig.cache

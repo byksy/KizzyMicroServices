@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7u7VPpgwRH1JE12qPVRgGt/L3Ea6yodLp9IHekPZlzSiXVBsVFm7vEctAoJaZE3oNXOZ84GiUSGEPzo9sC2DgQ==",
+  "dgSpecHash": "ScZXr43SU4aEvvw9JY8P7IUOonfUjv1VXrC2cbrLNrt6/eJZnaRH+cSZvVGX0G3DvRWx8dupLw9lKza1wBbMAQ==",
   "success": true,
   "projectFilePath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/mustafabuyuksoy/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/mustafabuyuksoy/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.9/microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
     "/Users/mustafabuyuksoy/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.9/microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",

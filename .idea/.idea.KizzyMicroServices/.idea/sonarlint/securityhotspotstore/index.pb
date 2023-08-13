@@ -537,3 +537,5 @@ u
 EServices/Order/FreeCourse.Services.Order.Application/Dtos/OrderDto.cs,5/a/5a997e260c0619ccff1fa563d7a17789a50724b2
 w
 GServices/Order/FreeCourse.Services.Order.Application/Dtos/AddressDto.cs,4/5/4559d81bbf4544ac09ca8ff067f2c6f95732d84c
+‘
+aServices/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj,1/5/1589bb480240f22306900f252b5a87ba46c176b8

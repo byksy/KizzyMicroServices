@@ -39,3 +39,14 @@
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/obj/Debug/net7.0/FreeCourse.Services.Order.API.pdb
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/obj/Debug/net7.0/FreeCourse.Services.Order.API.genruntimeconfig.cache
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/obj/Debug/net7.0/ref/FreeCourse.Services.Order.API.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/AutoMapper.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/MediatR.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Npgsql.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/FreeCourse.Services.Order.Infrastructure.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/FreeCourse.Services.Order.Infrastructure.pdb
