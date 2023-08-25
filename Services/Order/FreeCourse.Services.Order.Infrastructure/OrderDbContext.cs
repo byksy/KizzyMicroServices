@@ -18,8 +18,12 @@ public class OrderDbContext : DbContext
         modelBuilder.Entity<Domain.OrderAggregate.Order>().ToTable("orders", DEFAULT_SCHEMA);
         modelBuilder.Entity<Domain.OrderAggregate.OrderItem>().ToTable("order_items", DEFAULT_SCHEMA);
 
-        modelBuilder.Entity<Domain.OrderAggregate.OrderItem>().Property(o => o.Price).HasColumnType("decimal(18,2");
+        modelBuilder.Entity<Domain.OrderAggregate.OrderItem>().Property(o => o.Price).HasColumnType("decimal(18,2)");
         modelBuilder.Entity<Domain.OrderAggregate.Order>().OwnsOne(o => o.Address).WithOwner();
         base.OnModelCreating(modelBuilder);
     }
+    
+    /*
+     * dotnet ef migrations add initial --project FreeCourse.Services.Order.Infrastructure.csproj -s ../FreeCourse.Services.Order.API/FreeCourse.Services.Order.API.csproj -c OrderDbContext -o "Migrations"
+     */
 }

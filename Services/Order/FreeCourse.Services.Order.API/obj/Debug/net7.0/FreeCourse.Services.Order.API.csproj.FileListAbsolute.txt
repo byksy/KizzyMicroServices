@@ -50,3 +50,8 @@
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/FreeCourse.Services.Order.Infrastructure.dll
 /Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/FreeCourse.Services.Order.Infrastructure.pdb
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Humanizer.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.API/bin/Debug/net7.0/System.CodeDom.dll
