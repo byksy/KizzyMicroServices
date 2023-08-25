@@ -1719,7 +1719,6 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "FreeCourse.Services.Order.Application >= 1.0.0",
-      "FreeCourse.Shared >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.9",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -1753,9 +1752,6 @@
           "projectReferences": {
             "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj": {
               "projectPath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj"
-            },
-            "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {
-              "projectPath": "/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj"
             }
           }
         }
