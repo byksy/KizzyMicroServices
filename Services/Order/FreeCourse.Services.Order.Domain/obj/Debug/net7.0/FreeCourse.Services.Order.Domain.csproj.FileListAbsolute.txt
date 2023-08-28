@@ -1,0 +1,15 @@
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.deps.json
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.pdb
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.Core.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.Core.pdb
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.csproj.AssemblyReference.cache
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.AssemblyInfoInputs.cache
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.AssemblyInfo.cs
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.csproj.CoreCompileInputs.cache
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.csproj.CopyComplete
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/refint/FreeCourse.Services.Order.Domain.dll
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.pdb
+/Users/mustafabuyuksoy/Desktop/Code/KizzyMicroServices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/ref/FreeCourse.Services.Order.Domain.dll
