@@ -543,3 +543,7 @@ k
 QServices/Order/FreeCourse.Services.Order.API/FreeCourse.Services.Order.API.csproj,c/3/c3c4deb987df88e60ced8ca94add47655e954883
 m
 =Services/Order/FreeCourse.Services.Order.API/appsettings.json,3/9/394205c8437c0ff911422f04e9994dfa76a2d615
+e
+5Services/Basket/FreeCourse.Services.Basket/Program.cs,b/9/b93f64ebd66f802f89a9eb114640125881c6d0ae
+b
+2IdentityServer/FreeCourse.IdentityServer/Config.cs,d/9/d975acb734b98edbc1eb20de1a65e7cecf135da8
