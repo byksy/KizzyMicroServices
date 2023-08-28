@@ -17,7 +17,7 @@ public class Order : Entity, IAggregateRoot
     public Order(string buyerId, Address address)
     {
         _orderItems = new List<OrderItem>();
-        CreatedDate =DateTime.Now;
+        CreatedDate =DateTime.UtcNow;
         BuyerId = buyerId;
         Address = address;
     }
